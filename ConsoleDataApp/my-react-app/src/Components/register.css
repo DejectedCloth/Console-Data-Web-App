@@ -1,0 +1,55 @@
+body {
+    background-color: antiquewhite;
+}
+
+.register_form {
+    text-align: center;
+}
+
+h3 {
+    font-family: monospace;
+    text-align: center;
+    font-size: 30px;
+}
+
+.formBox_register {
+    display: inline-block;
+    border: 4px;
+    border-style: solid;
+    border-color: gray;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    position: relative;
+    top: 100px;
+    left: 450px;
+    vertical-align: middle;
+}
+
+label {
+    font-size: 30px;
+    font-family: monospace;
+}
+
+.reg_button {
+    font-size: 20px;
+    font-family: monospace;
+    margin-top: 20px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 20px;
+  }
+
+  input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 20px;
+  }

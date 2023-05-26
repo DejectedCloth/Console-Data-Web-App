@@ -1,0 +1,57 @@
+
+
+.console_container{
+    border-style: solid;
+    border-width: 3px;
+    margin: 20px;
+    padding: 20px;
+    border-color: rgb(174, 177, 177);
+}
+
+.title {
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.year {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+img{
+    width: 40%;
+    height: auto;
+    border-style: solid;
+    border-color:rgb(174, 177, 177);
+    border-width: 3px;
+}
+
+.delete{
+    background-color: crimson;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    height: 40px;
+    width: 125px;
+}
+
+.delete:hover{
+    background-color: #7b38d8;
+}
+
+.description{
+    font-size: 20px;
+    font-family: monospace;
+}
+
+a{
+    color:black;
+    font-size: 17px;
+    font-family: monospace;
+}
+
+.buttons_container{
+    
+}
+
+

@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 25px;
+    background-color: rgb(174, 177, 177);
+   
+}
+
+.logo {
+    width: 50px;
+    border-radius: 10%;
+}
+
+.button {
+    border-style: solid;
+    border-color: black;
+    border-radius: 7%;
+    width: 100px;
+    height: 30px;
+    color: black;
+    font-size: 18px;
+    font-family: monospace;
+    background-color: rgb(174, 177, 177);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+.nav-heading {
+    margin: 0;
+    font-family: monospace;
+    font-size: 30px;
+    position: relative;
+    left: 80px;
+}

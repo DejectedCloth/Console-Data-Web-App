@@ -1,0 +1,20 @@
+.add{
+    text-align: center;
+    height: 60px;
+    width: 100px;
+    border: 4px double #cccccc;
+    color: white;
+    background-color: skyblue;
+    border-radius: 10px;
+}
+
+.add:hover{
+    background-color: #7b38d8;
+}
+
+.add_container{
+    padding-bottom: 50px;
+}
+
+
+
